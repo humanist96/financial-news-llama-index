@@ -4,3 +4,4 @@ pandas
 llama-index
 jinja2
 streamlit
+langchain
